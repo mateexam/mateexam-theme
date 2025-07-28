@@ -1,0 +1,25 @@
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6fa;
+    color: #333;
+}
+header {
+    background-color: #4a60a1;
+    color: white;
+    text-align: center;
+    padding: 40px 10px;
+}
+main {
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
